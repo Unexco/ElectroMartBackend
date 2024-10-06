@@ -97,7 +97,7 @@ DATABASES = {
         'NAME': 'electromartsdb',
         'USER': 'postgres',
         'PASSWORD': 'vnp-1234',
-        'HOST': 'localhost',
+        'HOST': '35.160.120.126',
         'PORT':5432,
 
     }
